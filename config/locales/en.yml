@@ -1,0 +1,15 @@
+en:
+  errors:
+    incorrect_email: "Incorrect email"
+    incorrect_phone: "Incorrect phone number"
+    incorrect_password: "Incorrect password"
+    wrong_password: "Wrong password"
+    account_not_found: "Account was not found"
+    already_exists: "Already exists"
+    invalid_fields: "Invalid fields"
+    unauthorized: "Unauthorized access"
+    not_found: "Not found"
+    not_confirmed: "Not confirmed"
+    invalid: "Invalid"
+    wrong_code: "Wrong code"
+
